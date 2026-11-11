@@ -1,0 +1,16 @@
+venv/
+.venv/
+.env
+config.secret.json
+reports/
+logs/
+*.log
+*.html
+snapshots/
+*.png
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
+
